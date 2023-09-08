@@ -19,5 +19,8 @@
   "homepage": "https://github.com/prillybsb/aula-node.js#readme",
   "dependencies": {
     "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }

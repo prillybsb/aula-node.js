@@ -1,4 +1,4 @@
-const hello = () => {
+/*const hello = () => {
   return "hello word";
 };
 
@@ -9,4 +9,4 @@ const somar = (a, b) => {
 module.exports = {
   hello,
   somar,
-};
+};*/

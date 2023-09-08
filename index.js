@@ -25,8 +25,8 @@ fs.rename("./files/arquivo.txt ","./files/novo-nome.txt", function (err) {
 });
 */
 
-fs.unlink("./files/arquivo.txt", function (err) {
+/*fs.unlink("./files/arquivo.txt", function (err) {
   if (err) {
     return console.log(`algo deu errado: ${err} `);
   }
-});
+});*/
